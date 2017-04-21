@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="modularity class" title="Modularity Class" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="0" label="Waymar Royce">
+        <attvalues>
+          <attvalue for="modularity class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="750.78864" y="499.37436"></viz:position>
+        <viz:color r="255" g="255" b="255"></viz:color>
+      </node>
+      <node id="1" label="Will">
+        <attvalues>
+          <attvalue for="modularity class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="718.5675" y="272.40076"></viz:position>
+        <viz:color r="255" g="255" b="255"></viz:color>
+      </node>
+      <node id="2" label="Gared">
+        <attvalues>
+          <attvalue for="modularity class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="756.57526" y="564.71826"></viz:position>
+        <viz:color r="255" g="255" b="255"></viz:color>
+      </node>
+      <node id="5" label="Jon">
+        <attvalues>
+          <attvalue for="modularity class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="365.55667" y="-257.2246"></viz:position>
+        <viz:color r="176" g="176" b="176"></viz:color>
+      </node>
+      <node id="3" label="Ned">
+        <attvalues>
+          <attvalue for="modularity class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="659.5644" y="-473.67416"></viz:position>
+        <viz:color r="176" g="176" b="176"></viz:color>
+      </node>
+      <node id="7" label="Bran">
+        <attvalues>
+          <attvalue for="modularity class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="690.5867" y="-334.16266"></viz:position>
+        <viz:color r="176" g="176" b="176"></viz:color>
+      </node>
+      <node id="6" label="Robb">
+        <attvalues>
+          <attvalue for="modularity class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="441.7664" y="-414.20114"></viz:position>
+        <viz:color r="176" g="176" b="176"></viz:color>
+      </node>
+      <node id="9" label="Arya">
+        <attvalues>
+          <attvalue for="modularity class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="801.3015" y="-872.3735"></viz:position>
+        <viz:color r="176" g="176" b="176"></viz:color>
+      </node>
+      <node id="15" label="Theon">
+        <attvalues>
+          <attvalue for="modularity class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="500.12576" y="-169.79205"></viz:position>
+        <viz:color r="166" g="91" b="10"></viz:color>
+      </node>
+      <node id="17" label="Cassel">
+        <attvalues>
+          <attvalue for="modularity class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="673.6179" y="-102.32466"></viz:position>
+        <viz:color r="166" g="91" b="10"></viz:color>
+      </node>
+      <node id="10" label="Benjen">
+        <attvalues>
+          <attvalue for="modularity class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="229.77576" y="-284.7722"></viz:position>
+      </node>
+      <node id="14" label="Tyrion">
+        <attvalues>
+          <attvalue for="modularity class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-51.565655" y="-635.1403"></viz:position>
+        <viz:color r="255" g="17" b="0"></viz:color>
+      </node>
+      <node id="18" label="Tommy">
+        <attvalues>
+          <attvalue for="modularity class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="99.50907" y="70.25188"></viz:position>
+        <viz:color r="166" g="91" b="10"></viz:color>
+      </node>
+      <node id="8" label="Sansa">
+        <attvalues>
+          <attvalue for="modularity class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="972.2637" y="-876.81134"></viz:position>
+        <viz:color r="176" g="176" b="176"></viz:color>
+      </node>
+      <node id="16" label="Maester Luwin">
+        <attvalues>
+          <attvalue for="modularity class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="965.07916" y="-497.47815"></viz:position>
+        <viz:color r="166" g="91" b="10"></viz:color>
+      </node>
+      <node id="4" label="Catelyn">
+        <attvalues>
+          <attvalue for="modularity class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="864.30865" y="-622.9513"></viz:position>
+        <viz:color r="176" g="176" b="176"></viz:color>
+      </node>
+      <node id="13" label="Jaime">
+        <attvalues>
+          <attvalue for="modularity class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="320.50342" y="-805.50684"></viz:position>
+        <viz:color r="255" g="17" b="0"></viz:color>
+      </node>
+      <node id="12" label="Cersei">
+        <attvalues>
+          <attvalue for="modularity class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="589.08813" y="-890.05945"></viz:position>
+        <viz:color r="249" g="255" b="0"></viz:color>
+      </node>
+      <node id="19" label="Septa Mordance">
+        <attvalues>
+          <attvalue for="modularity class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1152.9707" y="-1203.0482"></viz:position>
+        <viz:color r="166" g="91" b="10"></viz:color>
+      </node>
+      <node id="20" label="Ros">
+        <attvalues>
+          <attvalue for="modularity class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-96.924" y="-743.1587"></viz:position>
+        <viz:color r="166" g="91" b="10"></viz:color>
+      </node>
+      <node id="21" label="The Hound">
+        <attvalues>
+          <attvalue for="modularity class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-354.91336" y="-652.47815"></viz:position>
+        <viz:color r="166" g="91" b="10"></viz:color>
+      </node>
+      <node id="22" label="Viserys">
+        <attvalues>
+          <attvalue for="modularity class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2433.005" y="1887.5127"></viz:position>
+        <viz:color r="166" g="8" b="19"></viz:color>
+      </node>
+      <node id="23" label="Daenerys">
+        <attvalues>
+          <attvalue for="modularity class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2365.4783" y="1844.912"></viz:position>
+        <viz:color r="166" g="8" b="19"></viz:color>
+      </node>
+      <node id="25" label="Illyrios">
+        <attvalues>
+          <attvalue for="modularity class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2395.1978" y="1924.3593"></viz:position>
+        <viz:color r="166" g="91" b="10"></viz:color>
+      </node>
+      <node id="24" label="Khal Drogo">
+        <attvalues>
+          <attvalue for="modularity class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2341.6943" y="1740.1038"></viz:position>
+        <viz:color r="166" g="91" b="10"></viz:color>
+      </node>
+      <node id="26" label="Jorah Mormont">
+        <attvalues>
+          <attvalue for="modularity class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2219.0166" y="1718.0518"></viz:position>
+        <viz:color r="166" g="91" b="10"></viz:color>
+      </node>
+      <node id="11" label="Robert">
+        <attvalues>
+          <attvalue for="modularity class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="705.876" y="-686.6201"></viz:position>
+        <viz:color r="249" g="255" b="0"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="7.0"></edge>
+      <edge id="1" source="0" target="2" weight="7.0"></edge>
+      <edge id="2" source="1" target="0" weight="4.0"></edge>
+      <edge id="3" source="1" target="2" weight="4.0"></edge>
+      <edge id="4" source="2" target="0" weight="4.0"></edge>
+      <edge id="5" source="2" target="1" weight="4.0"></edge>
+      <edge id="6" source="1" target="5" weight="3.0"></edge>
+      <edge id="7" source="1" target="3" weight="3.0"></edge>
+      <edge id="8" source="1" target="7" weight="3.0"></edge>
+      <edge id="9" source="5" target="7" weight="12.0"></edge>
+      <edge id="10" source="5" target="6" weight="10.0"></edge>
+      <edge id="11" source="5" target="3" weight="7.0"></edge>
+      <edge id="12" source="5" target="9"></edge>
+      <edge id="13" source="5" target="15" weight="6.0"></edge>
+      <edge id="14" source="5" target="17" weight="5.0"></edge>
+      <edge id="15" source="5" target="10" weight="6.0"></edge>
+      <edge id="16" source="5" target="14" weight="4.0"></edge>
+      <edge id="17" source="5" target="18"></edge>
+      <edge id="18" source="6" target="7" weight="5.0"></edge>
+      <edge id="19" source="6" target="5" weight="8.0"></edge>
+      <edge id="20" source="6" target="3" weight="7.0"></edge>
+      <edge id="21" source="6" target="9" weight="2.0"></edge>
+      <edge id="22" source="6" target="15" weight="5.0"></edge>
+      <edge id="23" source="6" target="18" weight="2.0"></edge>
+      <edge id="24" source="6" target="17" weight="3.0"></edge>
+      <edge id="25" source="6" target="10" weight="2.0"></edge>
+      <edge id="26" source="6" target="8"></edge>
+      <edge id="27" source="15" target="5" weight="8.0"></edge>
+      <edge id="28" source="15" target="3" weight="6.0"></edge>
+      <edge id="29" source="15" target="17" weight="6.0"></edge>
+      <edge id="30" source="15" target="6" weight="8.0"></edge>
+      <edge id="31" source="15" target="7" weight="6.0"></edge>
+      <edge id="32" source="15" target="18" weight="2.0"></edge>
+      <edge id="33" source="7" target="3" weight="8.0"></edge>
+      <edge id="34" source="7" target="5" weight="4.0"></edge>
+      <edge id="35" source="7" target="15" weight="4.0"></edge>
+      <edge id="36" source="7" target="17" weight="4.0"></edge>
+      <edge id="37" source="7" target="6" weight="4.0"></edge>
+      <edge id="38" source="7" target="16" weight="4.0"></edge>
+      <edge id="39" source="7" target="4" weight="4.0"></edge>
+      <edge id="40" source="7" target="13"></edge>
+      <edge id="41" source="7" target="12"></edge>
+      <edge id="42" source="19" target="8" weight="2.0"></edge>
+      <edge id="43" source="19" target="9" weight="2.0"></edge>
+      <edge id="44" source="17" target="15" weight="2.0"></edge>
+      <edge id="45" source="17" target="3" weight="3.0"></edge>
+      <edge id="46" source="17" target="4" weight="2.0"></edge>
+      <edge id="47" source="17" target="5"></edge>
+      <edge id="48" source="17" target="7"></edge>
+      <edge id="49" source="17" target="6"></edge>
+      <edge id="50" source="13" target="3" weight="4.0"></edge>
+      <edge id="51" source="13" target="12" weight="10.0"></edge>
+      <edge id="52" source="13" target="14" weight="4.0"></edge>
+      <edge id="53" source="13" target="20" weight="4.0"></edge>
+      <edge id="54" source="13" target="7" weight="5.0"></edge>
+      <edge id="55" source="16" target="4" weight="6.0"></edge>
+      <edge id="56" source="16" target="3" weight="4.0"></edge>
+      <edge id="57" source="14" target="20" weight="12.0"></edge>
+      <edge id="58" source="14" target="13" weight="4.0"></edge>
+      <edge id="59" source="14" target="5" weight="6.0"></edge>
+      <edge id="60" source="14" target="21" weight="2.0"></edge>
+      <edge id="61" source="20" target="14" weight="5.0"></edge>
+      <edge id="62" source="20" target="13"></edge>
+      <edge id="63" source="10" target="5" weight="7.0"></edge>
+      <edge id="64" source="10" target="3" weight="5.0"></edge>
+      <edge id="65" source="10" target="6"></edge>
+      <edge id="66" source="21" target="14" weight="3.0"></edge>
+      <edge id="67" source="22" target="23" weight="15.0"></edge>
+      <edge id="68" source="22" target="25" weight="13.0"></edge>
+      <edge id="69" source="22" target="24" weight="2.0"></edge>
+      <edge id="70" source="23" target="22" weight="4.0"></edge>
+      <edge id="71" source="23" target="24" weight="5.0"></edge>
+      <edge id="72" source="23" target="25" weight="3.0"></edge>
+      <edge id="73" source="23" target="26" weight="2.0"></edge>
+      <edge id="74" source="24" target="23" weight="3.0"></edge>
+      <edge id="75" source="26" target="23" weight="3.0"></edge>
+      <edge id="76" source="26" target="24" weight="3.0"></edge>
+      <edge id="77" source="25" target="22" weight="12.0"></edge>
+      <edge id="78" source="25" target="23" weight="11.0"></edge>
+      <edge id="79" source="25" target="24" weight="3.0"></edge>
+      <edge id="80" source="8" target="19"></edge>
+      <edge id="81" source="8" target="9" weight="4.0"></edge>
+      <edge id="82" source="8" target="4" weight="11.0"></edge>
+      <edge id="83" source="8" target="12" weight="3.0"></edge>
+      <edge id="84" source="8" target="3" weight="2.0"></edge>
+      <edge id="85" source="8" target="7" weight="2.0"></edge>
+      <edge id="86" source="8" target="6" weight="2.0"></edge>
+      <edge id="87" source="8" target="11" weight="2.0"></edge>
+      <edge id="88" source="12" target="13" weight="9.0"></edge>
+      <edge id="89" source="12" target="4" weight="10.0"></edge>
+      <edge id="90" source="12" target="8" weight="5.0"></edge>
+      <edge id="91" source="12" target="7" weight="5.0"></edge>
+      <edge id="92" source="12" target="11" weight="2.0"></edge>
+      <edge id="93" source="12" target="3" weight="2.0"></edge>
+      <edge id="94" source="12" target="6" weight="2.0"></edge>
+      <edge id="95" source="12" target="8" weight="2.0"></edge>
+      <edge id="96" source="12" target="9" weight="2.0"></edge>
+      <edge id="97" source="11" target="4" weight="7.0"></edge>
+      <edge id="98" source="11" target="3" weight="18.0"></edge>
+      <edge id="99" source="11" target="7" weight="4.0"></edge>
+      <edge id="100" source="11" target="8" weight="4.0"></edge>
+      <edge id="101" source="11" target="9" weight="4.0"></edge>
+      <edge id="102" source="11" target="6" weight="4.0"></edge>
+      <edge id="103" source="11" target="12" weight="2.0"></edge>
+      <edge id="104" source="11" target="13" weight="2.0"></edge>
+      <edge id="105" source="3" target="7" weight="17.0"></edge>
+      <edge id="106" source="3" target="5" weight="10.0"></edge>
+      <edge id="107" source="3" target="6" weight="9.0"></edge>
+      <edge id="108" source="3" target="17" weight="9.0"></edge>
+      <edge id="109" source="3" target="15" weight="7.0"></edge>
+      <edge id="110" source="3" target="4" weight="20.0"></edge>
+      <edge id="111" source="3" target="1" weight="5.0"></edge>
+      <edge id="112" source="3" target="11" weight="11.0"></edge>
+      <edge id="113" source="3" target="9" weight="2.0"></edge>
+      <edge id="114" source="3" target="8" weight="2.0"></edge>
+      <edge id="115" source="3" target="10" weight="4.0"></edge>
+      <edge id="116" source="3" target="16" weight="3.0"></edge>
+      <edge id="117" source="3" target="13" weight="5.0"></edge>
+      <edge id="118" source="3" target="12"></edge>
+      <edge id="119" source="9" target="3" weight="5.0"></edge>
+      <edge id="120" source="9" target="7" weight="5.0"></edge>
+      <edge id="121" source="9" target="4" weight="5.0"></edge>
+      <edge id="122" source="9" target="6" weight="5.0"></edge>
+      <edge id="123" source="9" target="8" weight="5.0"></edge>
+      <edge id="124" source="9" target="11" weight="4.0"></edge>
+      <edge id="125" source="9" target="13"></edge>
+      <edge id="126" source="9" target="12"></edge>
+      <edge id="127" source="4" target="17"></edge>
+      <edge id="128" source="4" target="3" weight="18.0"></edge>
+      <edge id="129" source="4" target="16" weight="13.0"></edge>
+      <edge id="130" source="4" target="8" weight="7.0"></edge>
+      <edge id="131" source="4" target="11" weight="2.0"></edge>
+      <edge id="132" source="4" target="7" weight="6.0"></edge>
+      <edge id="133" source="4" target="12" weight="4.0"></edge>
+      <edge id="134" source="4" target="13"></edge>
+      <edge id="135" source="4" target="6"></edge>
+      <edge id="136" source="4" target="9"></edge>
+    </edges>
+  </graph>
+</gexf>

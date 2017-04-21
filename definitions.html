@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Who Dies Next</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <nav class="navbar navbar-default">
+      <div class="container-fluid">
+
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="index.html">Who Dies Next</a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav">
+
+            <li class=active>
+              <a href="#">Definitions</a>
+            </li>
+
+            <li class="dropdown">
+              <a href="projects.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Look into the Future<span class="caret"></span>
+              </a>
+              <ul class="dropdown-menu">
+                <li>
+                  <a href="got.html">Game of Thrones</a>
+                </li>
+              </ul>
+            </li>
+
+            <li>
+              <a href="resources.html">Resources</a>
+            </li>
+
+            <li>
+              <a href="reflections.html">Reflections</a>
+            </li>
+          </ul>
+
+          <!-- Right nav bar -->
+          <ul class="nav navbar-nav navbar-right">
+            <li>
+              <a href="https://github.com/XYLau/WhoDiesNext" style="padding: 0">
+                GitHub<img src="assets/github_glyph.png" height="40px">
+              </a>
+            </li>
+          </ul>
+        </div><!-- /.navbar-collapse -->
+      </div><!-- /.container-fluid -->
+    </nav>
+    
+    <!-- Content --> 
+    <h1>What is "Who Dies Next"</h1>
+    <p>This digital archive is about documenting characters, their relationships and deaths, in the form of a network map. Comparisons using the network maps are available across the various adaptations of the original. The fundamental idea behind this archive is to provide cross-platform comparisons of adaptations to their original. </p>
+
+    <h1>Relationship Definitions</h1>
+    <p>These are the definitions to establish an instance of a relationship, also known as an “interaction” between two characters, A and B.</p>
+
+    <ul>
+      <li>
+        An interaction is measured by a single verbal conversation directed from A to B, of which B can either be a person or a group of people. For example, if A speaks to B and C, A->B=1 and A->C=1.
+      </li>
+
+      <li>
+        In written text, each valid dialogue, in accordance to the rules above, denoted by a pair of apostrophes counts as 1. For example, “something”, said A to B. “something again”, counts as 2 instances, meaning A->B=2.
+      </li>
+
+      <li>
+        In the case of a group of people, the interaction would be measured across all others of the group who are still present at the point of verbalisation. For example, if the above conversation occurs and B replies A but C has already left this group, we will only record the second interaction as B->A=1
+      </li>
+
+      <li>
+        As the word conversation implies that it is two-way communication, speeches are not recognised as a form of interaction, since there is no specific recipient. Similarly, battle cries are excluded from the measure for the same reason as well.
+      </li>
+    </ul>
+
+    <h1>Classifications</h1>
+    <p>In this archive, colour is used as a visual tool to aid visualization of specific classifications or groups. As these are specific to each project, more information about these are documented at the start of each project.</p>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>

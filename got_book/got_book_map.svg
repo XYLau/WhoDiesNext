@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="669.82434"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-287.943665 -391.845642 669.824341 824.845642" height="824.84564"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="22.0"
+              d="M 30.559326,315.132507 C -112.475616,271.821747 -262.061859,-7.696804 -218.751099,-150.731750"
+              class="0 1" stroke-opacity="1.0" stroke="#ffffff"/>
+        <path fill="none" stroke-width="22.0"
+              d="M 30.559326,315.132507 C -97.533592,166.410980 -66.590675,-248.810699 82.130859,-376.903625"
+              class="0 2" stroke-opacity="1.0" stroke="#7f7f7f"/>
+        <path fill="none" stroke-width="42.0"
+              d="M -218.751099,-150.731750 C -75.716148,-107.420975 73.870102,172.097565 30.559326,315.132507"
+              class="1 0" stroke-opacity="1.0" stroke="#ffffff"/>
+        <path fill="none" stroke-width="42.0"
+              d="M -218.751099,-150.731750 C -203.809082,-256.142517 -23.279911,-391.845642 82.130859,-376.903625"
+              class="1 2" stroke-opacity="1.0" stroke="#7f7f7f"/>
+        <path fill="none" stroke-width="25.0"
+              d="M 82.130859,-376.903625 C 210.223785,-228.182098 179.280853,187.039581 30.559326,315.132507"
+              class="2 0" stroke-opacity="1.0" stroke="#7f7f7f"/>
+        <path fill="none" stroke-width="25.0"
+              d="M 82.130859,-376.903625 C 67.188843,-271.492859 -113.340332,-135.789734 -218.751099,-150.731750"
+              class="2 1" stroke-opacity="1.0" stroke="#7f7f7f"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -155.622253,387.907684 C -175.761124,307.265442 -85.006073,156.093781 -4.363831,135.954895"
+              class="3 5" stroke-opacity="1.0" stroke="#ababab"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -155.622253,387.907684 C -130.507385,310.621368 23.094368,232.364197 100.380676,257.479065"
+              class="3 4" stroke-opacity="1.0" stroke="#ababab"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -155.622253,387.907684 C -287.272766,256.704407 -287.943665,-137.576340 -156.740356,-269.226868"
+              class="3 6" stroke-opacity="1.0" stroke="#ababab"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 312.448547,-301.749329 C 225.115250,-201.407059 -56.398079,-181.893570 -156.740356,-269.226868"
+              class="7 6" stroke-opacity="1.0" stroke="#ab895d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 312.448547,-301.749329 C 336.626923,-150.846008 146.539490,111.776520 -4.363831,135.954895"
+              class="7 5" stroke-opacity="1.0" stroke="#ab895d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 312.448547,-301.749329 C 381.880646,-147.490082 254.639923,188.046967 100.380676,257.479065"
+              class="7 4" stroke-opacity="1.0" stroke="#ab895d"/>
+        <path fill="none" stroke-width="7.0"
+              d="M -4.363831,135.954895 C -115.875488,85.393845 -207.301407,-157.715210 -156.740356,-269.226868"
+              class="5 6" stroke-opacity="1.0" stroke="#ababab"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 100.380676,257.479065 C 75.265816,334.765381 -78.335945,413.022552 -155.622253,387.907684"
+              class="4 3" stroke-opacity="1.0" stroke="#ababab"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 100.380676,257.479065 C 30.948570,103.219818 158.189301,-232.317230 312.448547,-301.749329"
+              class="4 7" stroke-opacity="1.0" stroke="#ab895d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 100.380676,257.479065 C 98.016586,325.926819 -8.201172,425.052307 -76.648926,422.688232"
+              class="4 8" stroke-opacity="1.0" stroke="#ab895d"/>
+        <path fill="none" stroke-width="9.0"
+              d="M -156.740356,-269.226868 C -45.228699,-218.665833 46.197220,24.443235 -4.363831,135.954895"
+              class="6 5" stroke-opacity="1.0" stroke="#ababab"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -156.740356,-269.226868 C -69.407066,-369.569153 212.106277,-389.082642 312.448547,-301.749329"
+              class="6 7" stroke-opacity="1.0" stroke="#ab895d"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -76.648926,422.688232 C -74.284836,354.240479 31.932922,255.114990 100.380676,257.479065"
+              class="8 4" stroke-opacity="1.0" stroke="#ab895d"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="30.559326"
+                class="0" cy="315.1325" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-218.7511"
+                class="1" cy="-150.73175" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="82.13086"
+                class="2" cy="-376.90363" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ababab" r="10.0" cx="-155.62225"
+                class="3" cy="387.90768" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ababab" r="10.0" cx="-4.3638306"
+                class="5" cy="135.9549" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ababab" r="10.0" cx="100.38068"
+                class="4" cy="257.47906" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ababab" r="10.0" cx="-156.74036"
+                class="6" cy="-269.22687" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ab6810" r="10.0" cx="312.44855"
+                class="7" cy="-301.74933" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ab6810" r="10.0" cx="-76.648926"
+                class="8" cy="422.68823" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="24" x="30.559326" y="319.57587" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="0">
+            Gared
+        </text>
+        <text font-size="24" x="-218.7511" y="-145.09894" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1">
+            Ser Waymar Royce
+        </text>
+        <text font-size="24" x="82.13086" y="-372.6087" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2">
+            Will
+        </text>
+        <text font-size="24" x="-155.62225" y="392.35104" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3">
+            Jon Snow
+        </text>
+        <text font-size="24" x="-4.3638306" y="140.39825" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5">
+            Brandon&apos;Bran&apos; Stark
+        </text>
+        <text font-size="24" x="100.38068" y="261.92242" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4">
+            Robb Stark
+        </text>
+        <text font-size="24" x="-156.74036" y="-264.7835" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="6">
+            Eddard&apos;Ned&apos; Stark
+        </text>
+        <text font-size="24" x="312.44855" y="-296.19073" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7">
+            Jory
+        </text>
+        <text font-size="24" x="-76.648926" y="428.32104" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="8">
+            Theon Greyjoy
+        </text>
+    </g>
+</svg>

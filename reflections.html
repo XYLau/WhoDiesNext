@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Who Dies Next</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <nav class="navbar navbar-default">
+      <div class="container-fluid">
+
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="index.html">Who Dies Next</a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav">
+
+            <li>
+              <a href="definitions.html">Definitions</a>
+            </li>
+
+            <li class="dropdown">
+              <a href="projects.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Look into the Future<span class="caret"></span>
+              </a>
+              <ul class="dropdown-menu">
+                <li>
+                  <a href="got.html">Game of Thrones</a>
+                </li>
+              </ul>
+            </li>
+
+            <li>
+              <a href="resources.html">Resources</a>
+            </li>
+
+            <li class=active>
+              <a href="#">Reflections</a>
+            </li>
+          </ul>
+
+          <!-- Right nav bar -->
+          <ul class="nav navbar-nav navbar-right">
+            <li>
+              <a href="https://github.com/XYLau/WhoDiesNext" style="padding: 0">
+                GitHub<img src="assets/github_glyph.png" height="40px">
+              </a>
+            </li>
+          </ul>
+        </div><!-- /.navbar-collapse -->
+      </div><!-- /.container-fluid -->
+    </nav>
+    
+    <!-- Content --> 
+    <h1>Reflections</h1>
+    <p>Written by Lau Xing Yi (A0114573J) for GEK2050 Digital Humanities in Arts Research</p>
+    <p>Word Count: 721 words</p>
+
+    <h3>Introduction</h3>
+    <p>Originally conceptualised as a tool to capture the complicated relationships across the numerous characters in the book series, Game of Thrones(GOT) by George R. R. Martin, the idea expanded further to evaluate the differences between the popular TV series and the books. </p>
+
+    <p>Character networks depicting familial relationship across the plotline of a TV series and books alike are often available, especially so for a popular series like GOT [1]. While a vast majority of these networks are usually entwined within the plot, we are interested to compare between adaptations of an object using based not only on the character network but also the measuring the relational closeness between characters from dialogue occurrences.</p>
+    
+    <p>Who Dies Next is a digital archive that would allow researchers interested in comparing network maps created from both literary adaptations and the original work. The fundamental idea behind this archive is to provide cross-platform network map comparisons of adaptations to their original. </p>
+
+    <h3>Relevance to Humanities</h3>
+    <p>This tool would be useful in allowing researchers to evaluate literary adaptations from another angle. With this tool, they can now look into comparing intricate details of the character-relationship network to other factors, such as network structure to the author’s writing style, genre, adaptation medium among many others. </p>
+
+    <p>The key benefit of using network maps as a visualisation tool is the ability to manipulate and analyse data through quantifiable means of network analysis and graph theory, shedding more light onto the structure behind the characters, intricately weaved by the author. </p>
+
+    <p>Traditionally, comparisons against literary adaptations were often done through literary analysis, which are based on theoretical questions and critical analysis on how the literary fiction is received and analysed but also how it is written [2]. Presently, researchers are exploring cross-disciplinary areas such as network analysis, to aid the study of literature to analyse works further [3]. </p>
+
+    <h3>Similar Projects</h3>
+    <p>A similar research project, Network of Thrones, on the same object studied in Who Dies Next, Game of Thrones, was created by mathematicians from Macalester College, which uses network science to understand more about the characters and determine the main character from the third book of the series [1]. The key difference between this project and the one initiated was the premise and measurement of computation. </p>
+
+    <p>In this project, the measurement of computation was defined to be based off specific dialogue occurrences, whereas the measurement of interaction used was by name-mentions within 15 words of one another. </p>
+
+    <p>The method used in Network of Thrones to measure interaction can be implemented by running a script through the original text to obtain the weight of the edges while using the characters as nodes. However, in Who Dies Next, the speaker and the recipients of dialogue needs to be identified for each occurrence, which is highly dependent on the writer’s style. While this process can be automated using scripts for original texts, the accuracy of the data collected will be undermined, especially so for GOT because characters are rarely named in conversations and participants of group conversations tend to leave midway through the conversation, between adjacent speech dialogues. As such, the measurements for GOT in Who Dies Next were computed by hand.</p>
+
+    <p>A parser script can be used to automate such measurements for screenplays of the TV series. However, this would need to be flexible in calibrating to the different ways in which a script is written.  </p>
+
+    <h3>Future Expansions</h3>
+
+    <p>In future releases of Who Dies Next, I would be expanding the collection of works and specific features that would provide more information for users to analyse the works supported in the site. These include a page-viewer embedded with the network maps to provided realistic map-drawing as the written text progresses. The same can be done for video sources by tagging the maps at specific parts of the video. </p>
+
+    <p>With the growing capabilities of machine learning in artificial intelligence, I hope that this tool would be able to reach the stage where the user can upload a piece of text or video and the relevant network maps would be run-time generated. Computationally intensive and highly dependent on OCRs, voice and facial recognition, it is unlikely that Who Dies Next would be able to support this within the next 5 years, but I remain hopeful that this is the future that Who Dies Next would be working towards.</p>
+
+    <h1>References</h1>
+    <p><a href="https://www.macalester.edu/~abeverid/thrones.html">A. Beveridge and J. Shan, "Network of Thrones," Math Horizons Magazine , Vol. 23, No. 4 (2016), pp. 18-22</a></p>
+    <p><a href=""></a></p>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>

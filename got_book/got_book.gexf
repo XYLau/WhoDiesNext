@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="modularity class" title="Modularity Class" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="0" label="Gared">
+        <attvalues>
+          <attvalue for="modularity class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="30.559326" y="-315.1325"></viz:position>
+        <viz:color r="255" g="255" b="255"></viz:color>
+      </node>
+      <node id="1" label="Ser Waymar Royce">
+        <attvalues>
+          <attvalue for="modularity class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-218.7511" y="150.73175"></viz:position>
+        <viz:color r="255" g="255" b="255"></viz:color>
+      </node>
+      <node id="2" label="Will">
+        <attvalues>
+          <attvalue for="modularity class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="82.13086" y="376.90363"></viz:position>
+      </node>
+      <node id="3" label="Jon Snow">
+        <attvalues>
+          <attvalue for="modularity class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-155.62225" y="-387.90768"></viz:position>
+        <viz:color r="171" g="171" b="171"></viz:color>
+      </node>
+      <node id="5" label="Brandon 'Bran' Stark">
+        <attvalues>
+          <attvalue for="modularity class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-4.3638306" y="-135.9549"></viz:position>
+        <viz:color r="171" g="171" b="171"></viz:color>
+      </node>
+      <node id="4" label="Robb Stark">
+        <attvalues>
+          <attvalue for="modularity class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="100.38068" y="-257.47906"></viz:position>
+        <viz:color r="171" g="171" b="171"></viz:color>
+      </node>
+      <node id="6" label="Eddard 'Ned' Stark">
+        <attvalues>
+          <attvalue for="modularity class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-156.74036" y="269.22687"></viz:position>
+        <viz:color r="171" g="171" b="171"></viz:color>
+      </node>
+      <node id="7" label="Jory">
+        <attvalues>
+          <attvalue for="modularity class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="312.44855" y="301.74933"></viz:position>
+        <viz:color r="171" g="104" b="16"></viz:color>
+      </node>
+      <node id="8" label="Theon Greyjoy">
+        <attvalues>
+          <attvalue for="modularity class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-76.648926" y="-422.68823"></viz:position>
+        <viz:color r="171" g="104" b="16"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="137" source="0" target="1" weight="21.0"></edge>
+      <edge id="138" source="0" target="2" weight="21.0"></edge>
+      <edge id="139" source="1" target="0" weight="41.0"></edge>
+      <edge id="140" source="1" target="2" weight="41.0"></edge>
+      <edge id="141" source="2" target="0" weight="24.0"></edge>
+      <edge id="142" source="2" target="1" weight="24.0"></edge>
+      <edge id="143" source="3" target="5" weight="5.0"></edge>
+      <edge id="144" source="3" target="4" weight="4.0"></edge>
+      <edge id="145" source="3" target="6"></edge>
+      <edge id="146" source="7" target="6"></edge>
+      <edge id="147" source="7" target="5" weight="0.0"></edge>
+      <edge id="148" source="7" target="4"></edge>
+      <edge id="149" source="5" target="6" weight="6.0"></edge>
+      <edge id="150" source="4" target="3" weight="3.0"></edge>
+      <edge id="151" source="4" target="7" weight="2.0"></edge>
+      <edge id="152" source="4" target="8"></edge>
+      <edge id="153" source="6" target="5" weight="8.0"></edge>
+      <edge id="154" source="6" target="7"></edge>
+      <edge id="155" source="8" target="4" weight="3.0"></edge>
+    </edges>
+  </graph>
+</gexf>
